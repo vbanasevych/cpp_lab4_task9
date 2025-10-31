@@ -6,4 +6,7 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(cpp_lab4_task9 main.cpp
         config.h
         data_structure.h
-        data_structure.cpp)
+        data_structure.cpp
+        file_utils.cpp
+        file_utils.h
+)
