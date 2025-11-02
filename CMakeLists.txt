@@ -9,4 +9,6 @@ add_executable(cpp_lab4_task9 main.cpp
         data_structure.cpp
         file_utils.cpp
         file_utils.h
+        worker.cpp
+        worker.h
 )
